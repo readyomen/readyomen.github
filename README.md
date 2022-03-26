@@ -1,0 +1,2 @@
+# readyomen.github
+dokumen latihan
